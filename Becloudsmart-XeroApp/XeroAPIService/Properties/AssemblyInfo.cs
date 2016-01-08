@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Becloudsmart_XeroAppWeb")]
+[assembly: AssemblyTitle("XeroAPIService")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Becloudsmart")]
-[assembly: AssemblyProduct("Becloudsmart_XeroAppWeb")]
+[assembly: AssemblyCompany("")]
+[assembly: AssemblyProduct("XeroAPIService")]
 [assembly: AssemblyCopyright("Copyright ©  2016")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("0d9e172e-022f-4691-8c61-e83c757faeac")]
+[assembly: Guid("8fb9bd33-9280-4477-b726-ecf032610c88")]
 
 // Version information for an assembly consists of the following four values:
 //

@@ -9,7 +9,7 @@
     <ProductVersion>
     </ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{94F8051D-29C2-4EDD-9DC5-BF4E754F87CF}</ProjectGuid>
+    <ProjectGuid>{0D9E172E-022F-4691-8C61-E83C757FAEAC}</ProjectGuid>
     <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
@@ -79,11 +79,15 @@
     <None Include="Scripts\jquery-1.9.1.intellisense.js" />
     <Content Include="AddInRead\App.css" />
     <Content Include="AddInRead\App.js" />
-    <Content Include="AddInRead\Home\Home.css" />
+    <Content Include="AddInRead\Home\css\Home.css" />
     <Content Include="AddInRead\Home\Home.html" />
-    <Content Include="AddInRead\Home\Home.js" />
+    <Content Include="AddInRead\Home\js\Home.js" />
     <Content Include="Content\Office.css" />
     <Content Include="Images\Close.png" />
+    <Content Include="Images\connect_xero_button_blue.png" />
+    <Content Include="Images\connect_xero_button_blue_2x.png" />
+    <Content Include="Images\connect_xero_button_white.png" />
+    <Content Include="Images\connect_xero_button_white_2x.png" />
     <Content Include="Scripts\jquery-1.9.1.js" />
     <Content Include="Scripts\jquery-1.9.1.min.js" />
     <Content Include="Scripts\jquery-1.9.1.min.map" />
@@ -339,9 +343,9 @@
         <WebProjectProperties>
           <UseIIS>True</UseIIS>
           <AutoAssignPort>True</AutoAssignPort>
-          <DevelopmentServerPort>54080</DevelopmentServerPort>
+          <DevelopmentServerPort>62929</DevelopmentServerPort>
           <DevelopmentServerVPath>/</DevelopmentServerVPath>
-          <IISUrl>http://localhost:54080/</IISUrl>
+          <IISUrl>http://localhost:62929/</IISUrl>
           <NTLMAuthentication>False</NTLMAuthentication>
           <UseCustomServer>False</UseCustomServer>
           <CustomServerUrl>

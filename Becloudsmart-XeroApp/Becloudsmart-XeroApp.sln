@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Becloudsmart-XeroApp", "Becloudsmart-XeroApp\Becloudsmart-XeroApp.csproj", "{C1188FB4-349E-4C49-85D4-D2B7ABF6268E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Becloudsmart-XeroApp", "Becloudsmart-XeroApp\Becloudsmart-XeroApp.csproj", "{2D283145-EDE8-4270-A17F-FC92DCEEDBC2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Becloudsmart-XeroAppWeb", "Becloudsmart-XeroAppWeb\Becloudsmart-XeroAppWeb.csproj", "{94F8051D-29C2-4EDD-9DC5-BF4E754F87CF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Becloudsmart-XeroAppWeb", "Becloudsmart-XeroAppWeb\Becloudsmart-XeroAppWeb.csproj", "{0D9E172E-022F-4691-8C61-E83C757FAEAC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XeroAPIService", "XeroAPIService\XeroAPIService.csproj", "{8FB9BD33-9280-4477-B726-ECF032610C88}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,16 +15,20 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{C1188FB4-349E-4C49-85D4-D2B7ABF6268E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C1188FB4-349E-4C49-85D4-D2B7ABF6268E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C1188FB4-349E-4C49-85D4-D2B7ABF6268E}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
-		{C1188FB4-349E-4C49-85D4-D2B7ABF6268E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C1188FB4-349E-4C49-85D4-D2B7ABF6268E}.Release|Any CPU.Build.0 = Release|Any CPU
-		{C1188FB4-349E-4C49-85D4-D2B7ABF6268E}.Release|Any CPU.Deploy.0 = Release|Any CPU
-		{94F8051D-29C2-4EDD-9DC5-BF4E754F87CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{94F8051D-29C2-4EDD-9DC5-BF4E754F87CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{94F8051D-29C2-4EDD-9DC5-BF4E754F87CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{94F8051D-29C2-4EDD-9DC5-BF4E754F87CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D283145-EDE8-4270-A17F-FC92DCEEDBC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D283145-EDE8-4270-A17F-FC92DCEEDBC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D283145-EDE8-4270-A17F-FC92DCEEDBC2}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{2D283145-EDE8-4270-A17F-FC92DCEEDBC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D283145-EDE8-4270-A17F-FC92DCEEDBC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D283145-EDE8-4270-A17F-FC92DCEEDBC2}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{0D9E172E-022F-4691-8C61-E83C757FAEAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D9E172E-022F-4691-8C61-E83C757FAEAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D9E172E-022F-4691-8C61-E83C757FAEAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D9E172E-022F-4691-8C61-E83C757FAEAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FB9BD33-9280-4477-B726-ECF032610C88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FB9BD33-9280-4477-B726-ECF032610C88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FB9BD33-9280-4477-B726-ECF032610C88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FB9BD33-9280-4477-B726-ECF032610C88}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

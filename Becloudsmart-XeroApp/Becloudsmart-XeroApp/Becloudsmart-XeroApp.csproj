@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{C1188FB4-349E-4C49-85D4-D2B7ABF6268E}</ProjectGuid>
+    <ProjectGuid>{2D283145-EDE8-4270-A17F-FC92DCEEDBC2}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Becloudsmart_XeroApp</RootNamespace>
@@ -14,11 +14,11 @@
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{C1CDDADD-2546-481F-9697-4EA41081F2FC};{14822709-B5A1-4724-98CA-57A101D1B079};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
     <IncludeAssemblyInPackage>False</IncludeAssemblyInPackage>
-    <AppFeaturePartId>{bbe467f3-cea0-4767-89a2-760b5e708b90}</AppFeaturePartId>
-    <WspPartId>{ed7eb5b5-bc3d-4522-af7b-992f60988ea2}</WspPartId>
-    <WorkflowPartId>{fd3c4fc8-ba53-4a30-b916-c8dde2b08501}</WorkflowPartId>
-    <CspkgPartId>{c140129d-cb7a-4adf-b8d0-120fda317d3e}</CspkgPartId>
-    <SqlPackagePartId>{7c6083ef-35bc-44b3-8d88-439602c13b08}</SqlPackagePartId>
+    <AppFeaturePartId>{beb99bc9-f3c5-4062-8852-cd3f039670ae}</AppFeaturePartId>
+    <WspPartId>{4c9d641f-92b4-44b7-8b6b-557c3364e919}</WspPartId>
+    <WorkflowPartId>{b8426760-03e5-43ad-8b95-4fb844be7afb}</WorkflowPartId>
+    <CspkgPartId>{cc10bd14-b5ba-4883-b97a-5cb5ff03d65e}</CspkgPartId>
+    <SqlPackagePartId>{7c596bd1-687c-4c63-99b8-2b856aee8db6}</SqlPackagePartId>
     <ProjectMode>MailApp</ProjectMode>
     <MinimumVisualStudioVersion>12.0</MinimumVisualStudioVersion>
     <MinimumOfficeToolsVersion>12.2</MinimumOfficeToolsVersion>
@@ -44,7 +44,7 @@
   </PropertyGroup>
   <ItemGroup>
     <None Include="Becloudsmart-XeroAppManifest\SharePointProjectItem.spdata">
-      <SharePointProjectItemId>{22bd8fe4-8082-46b3-bb30-5a54b03c13ca}</SharePointProjectItemId>
+      <SharePointProjectItemId>{b88363fc-2f66-46cb-bf35-784c490eb0ec}</SharePointProjectItemId>
     </None>
     <Content Include="Becloudsmart-XeroAppManifest\Becloudsmart-XeroApp.xml">
       <OpcRelationship>manifest-oemanifest</OpcRelationship>
@@ -52,7 +52,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Becloudsmart-XeroAppWeb\Becloudsmart-XeroAppWeb.csproj">
-      <Project>{94F8051D-29C2-4EDD-9DC5-BF4E754F87CF}</Project>
+      <Project>{0D9E172E-022F-4691-8C61-E83C757FAEAC}</Project>
       <Name>Becloudsmart-XeroAppWeb</Name>
       <Private>True</Private>
       <RoleType>Web</RoleType>
